@@ -1,4 +1,13 @@
 {
+  "users": [
+    {
+      "name": "Radlantic",
+      "username": "test@test.com",
+      "password": "testpassword",
+      "userType": "ADMIN",
+      "id": 1
+    }
+  ],
   "cart": [
     {
       "title": "Poison Hammer",

@@ -12,6 +12,7 @@
     "nuxt": "3.0.0"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.4.6"
+    "@pinia/nuxt": "^0.4.6",
+    "@sidebase/nuxt-auth": "^0.3.0-alpha.3"
   }
 }
